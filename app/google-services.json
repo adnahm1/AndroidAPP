@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "317722093071",
+    "firebase_url": "https://monmos-71f98.firebaseio.com",
+    "project_id": "monmos-71f98",
+    "storage_bucket": "monmos-71f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317722093071:android:485b5b2ee03e6036",
+        "android_client_info": {
+          "package_name": "c.momos.monmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317722093071-dt89k2e478d8qmplavf98bq7acop5e4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.momos.monmo",
+            "certificate_hash": "5d9584a54da4e22069aa48b9206a3d96c5adf88d"
+          }
+        },
+        {
+          "client_id": "317722093071-n6i2oldgtljt2afp71dmfbsar8fecubg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwX91OoGYsOHJwNLcrH3KNrYJ7gxDpOrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317722093071-n6i2oldgtljt2afp71dmfbsar8fecubg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
